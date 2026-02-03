@@ -1,2 +1,12 @@
-# autonomous-research-agent
-Developed a LangChain-based autonomous agent for multi-step research. It utilizes advanced planning and tool-use to decompose complex queries, retrieve data, and synthesize reports. The modular design enables iterative strategy refinement and "plug-and-play" integration for new tools, significantly reducing manual research intervention.
+# Autonomous AI Research Agent
+
+An agentic AI system designed to perform deep-dive research with minimal human oversight.
+
+## Capabilities
+- **Autonomous Planning:** Decomposes complex user prompts into actionable research steps.
+- **Tool Integration:** Dynamic access to search, retrieval, and summarization modules.
+- **Iterative Refinement:** Critiques and improves its own outputs through multi-step reasoning loops.
+
+## Tech Stack
+- **Core Logic:** Python, LangChain Agents
+- **Design Pattern:** Modular Agentic Workflow
