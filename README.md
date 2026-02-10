@@ -71,7 +71,7 @@ The agent follows a strict state-based execution:
 
 ## 🌐 Live Demo
 
-🔗 **Demo Version (Cloud):** [Hugging Face Space](https://www.google.com/search?q=https://huggingface.co/spaces/Furqan09Ahmed/autonomous-research-agent)
+🔗 **Demo Version (Cloud):** https://huggingface.co/spaces/Furqan09Ahmed/autonomous-research-agent
 
 *(Note: Cloud version uses Groq Llama 3.3-70B for public performance; local version uses Ollama.)*
 
@@ -84,7 +84,7 @@ The agent follows a strict state-based execution:
 ![Autonomous Research Agent Input](assets/ui_input.png)
 
 ### Result
-![Autonomous Research Agent Result](assets/ui_outpu.png)
+![Autonomous Research Agent Result](assets/ui_output.png)
 
 ---
 
