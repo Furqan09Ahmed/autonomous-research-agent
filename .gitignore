@@ -1,0 +1,26 @@
+# Environments
+venv/
+env/
+.env
+
+# Python internals
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Project Specifics
+graph_architecture.png
+
+# Data - Keep structure but ignore files
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Streamlit (Commented out so your UI theme stays consistent for users)
+# .streamlit/config.toml
